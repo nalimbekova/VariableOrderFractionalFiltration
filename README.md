@@ -1,0 +1,1 @@
+This repository will contain source codes of numerical tests included in the paper entitled "Numerical Method for the Variable-Order Fractional Filtration Equation in Heterogeneous Media" by Nurlana Alimbekova, Aibek Bakishev and Abdumauvlen Berdyshev after the article is accepted for publication.
